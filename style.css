@@ -1,0 +1,75 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url('images/Background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#header {
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    margin-top: 28px;
+}
+
+#question {
+    width: auto;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+
+#answerGroup {
+    width: auto;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+#processing {
+  width: auto;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+#solutionGroup {
+  width: auto;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+button {
+  background-color: hsl(174, 62%, 34%); /* Green */
+  border: 15;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  justify-content: center;
+  align-content: center;
+  
+}
+
+#butt {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
