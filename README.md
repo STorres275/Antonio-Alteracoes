@@ -4,7 +4,11 @@ This project was developed by a team of 6 and allowed us to apply part of our kn
 
 ## Description
 Small app that presents to the user an outfit to wear and a location for a night out based of an inquiry that relates to the lyrics of the song.
+We first tried to make a game using the canvas HTML element, but due to time restraints it wasn´t possible.  
 This project is more of a gag and not to be taken very seryously, since it was our last project together. 
+
+## Project Status
+Finished.
 
 ## Acknowledgments
 This was the most fun project I did during the entire bootcamp by far thanks to the team and I wanna thank each one for the amazing day it was. 
