@@ -11,7 +11,7 @@ This project is more of a gag and not to be taken very seryously, since it was o
 Finished.
 
 ## Acknowledgments
-By far, this was the most fun project I was part of during the entire bootcamp thanks to the team. I wanna thank all team member for the memorable day you provided.
+By far, this was the most fun project I was part of during the entire bootcamp thanks to the team. I wanna thank all team members for the memorable day you provided.
 
 The development team:
 - Bruno Costa.
