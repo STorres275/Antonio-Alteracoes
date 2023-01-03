@@ -1,6 +1,6 @@
 # Antonio-Alteracoes
 Small SPA project developed in HTML, CSS and vanilla JS during the final morning of the <A/C> bootcamp. The goal was to make an SPA based of one of António Variações songs, in our case was "Sempre Ausente".    
-This project was developed by a team of 6 and allowed us to apply part of our knowledge of HTML, DOM and JQuery, CSS and JavaScript. 
+This project was developed by a team of 6 and allowed us to apply part of our knowledge of HTML, DOM and JQuery, CSS, JavaScript and Agile/Scrum methodology. 
 
 ## Description
 Small app that presents to the user an outfit to wear and a location for a night out based of an inquiry that relates to the lyrics of the song.  
